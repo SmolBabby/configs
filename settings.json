@@ -1,0 +1,15 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "editor.fontSize": 16,
+    "workbench.iconTheme": "catppuccin-perfect-ayu",
+    "git.suggestSmartCommit": false,
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "phase",
+    "editor.fontLigatures": false,
+    "editor.fontFamily": "Hack",
+    "[scss]": {
+        "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
+    }
+}
